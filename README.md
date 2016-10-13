@@ -1,7 +1,7 @@
 ##github名片
 一个可以在网站中显示github个人信息的jquery widget组件。
 
-##这里是[demo](http://htmlpreview.github.io/?https://github.com/bh-lay/github-widget-user/blob/master/demo.html)
+##这里是[demo](https://xulayen.github.io/CCN/)
 
 ![这是纯demo](resources/demo.jpg) ，  [这是有逼格的demo](http://bh-lay.com/topic/aboutme/index.html)
 ##如何使用
